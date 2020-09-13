@@ -1,0 +1,4 @@
+br\robertosamuelx\simpleCRUD\entities\Product.class
+br\robertosamuelx\simpleCRUD\SimpleCrudApplication.class
+br\robertosamuelx\simpleCRUD\repositories\ProductRepository.class
+br\robertosamuelx\simpleCRUD\controllers\ProductController.class
